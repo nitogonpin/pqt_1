@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b67820b5-601c-49e0-9e09-ad59c9a7102b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="80fc0948-6ed3-45b0-a3bc-386eb806bba1" />
+  </component>
+  <component name="ProjectId" id="1pDR0ntMdh8rR0dPSmMf6I6pfK6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pqt_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pqt_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\bgonp\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67820b5-601c-49e0-9e09-ad59c9a7102b" name="Default Changelist" comment="" />
+      <created>1614715453881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614715453881</updated>
+      <workItem from="1614715455730" duration="228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="433" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614715503804">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="433" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614715503804" />
+    <state x="1085" y="533" key="FileChooserDialogImpl" timestamp="1614715493793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="533" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614715493793" />
+    <state width="1136" height="286" key="GridCell.Tab.0.bottom" timestamp="1614715697252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1136" height="286" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614715697252" />
+    <state width="1136" height="286" key="GridCell.Tab.0.center" timestamp="1614715697252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1136" height="286" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614715697252" />
+    <state width="1136" height="286" key="GridCell.Tab.0.left" timestamp="1614715697252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1136" height="286" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614715697252" />
+    <state width="1136" height="286" key="GridCell.Tab.0.right" timestamp="1614715697252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1136" height="286" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614715697252" />
+    <state x="807" y="421" key="SettingsEditor" timestamp="1614715684106">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="807" y="421" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1614715684106" />
+    <state x="1001" y="602" key="com.intellij.ide.util.TipDialog" timestamp="1614715469796">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1001" y="602" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614715469796" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pqt_1$pqt_1.coverage" NAME="pqt_1 Coverage Results" MODIFIED="1614715521063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+  </component>
+</project>
